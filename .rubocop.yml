@@ -1,0 +1,15 @@
+Metrics/LineLength:
+  Max: 120
+
+Style/GlobalVars:
+  AllowedVariables:
+    - $options
+
+Style/HashSyntax:
+  EnforcedStyle: hash_rockets
+
+Style/TrailingCommaInLiteral:
+  EnforcedStyleForMultiline: comma
+
+Style/SpaceAroundEqualsInParameterDefault:
+  EnforcedStyle: no_space
